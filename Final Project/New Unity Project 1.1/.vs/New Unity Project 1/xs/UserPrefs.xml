@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{FC9411EB-1B12-4154-0219-EEA7CBD09863}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Bad.cs">
+    <Files>
+      <File FileName="Assets/Movement.cs" Line="89" Column="13" />
+      <File FileName="Assets/Terminator.cs" Line="18" Column="8" />
+      <File FileName="Assets/move.cs" Line="15" Column="1" />
+      <File FileName="Assets/Bad.cs" Line="23" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
